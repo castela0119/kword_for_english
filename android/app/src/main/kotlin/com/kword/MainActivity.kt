@@ -1,4 +1,4 @@
-package com.example.kword_for_english
+package com.kword
 
 import io.flutter.embedding.android.FlutterActivity
 
